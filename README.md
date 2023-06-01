@@ -14,7 +14,7 @@ This repository contains text editor programs implemented in C++. This program a
 - Delete a text file 
 ## Demo
 
-![demo](https://github.com/faman272/TITERA/assets/116134925/4cc570e9-1014-42b7-8ac9-72882f4a7b1f)
+![ezgif com-crop](https://github.com/faman272/TITERA/assets/116134925/99235183-4275-4272-83df-aefdfbd292db)
 
 
 ## Getting Started
