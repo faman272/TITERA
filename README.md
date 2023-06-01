@@ -3,7 +3,9 @@
 
 This repository contains text editor programs implemented in C++. This program allows users to create, edit, read and delete text files. It provides a simple and intuitive command line interface for interacting with text files. This Text Editor is made using the WINDOWS API.
 
+## Demo
 
+![ezgif com-crop](https://github.com/faman272/TITERA/assets/116134925/99235183-4275-4272-83df-aefdfbd292db)
 
 
 ## Features
@@ -12,10 +14,6 @@ This repository contains text editor programs implemented in C++. This program a
 - Edit an existing text file 
 - Read the contents of a text file 
 - Delete a text file 
-## Demo
-
-![ezgif com-crop](https://github.com/faman272/TITERA/assets/116134925/99235183-4275-4272-83df-aefdfbd292db)
-
 
 ## Getting Started
 To use the text editor program, follow these steps:
