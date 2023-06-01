@@ -1,5 +1,5 @@
 
-# TITERA - Text Editor Terminal Based C++
+# TITERA - Text Editor Terminal Based using C++
 
 This repository contains text editor programs implemented in C++. This program allows users to create, edit, read and delete text files. It provides a simple and intuitive command line interface for interacting with text files. This Text Editor is made using the WINDOWS API.
 
@@ -14,7 +14,7 @@ This repository contains text editor programs implemented in C++. This program a
 - Delete a text file 
 ## Demo
 
-![C++](TITERA/demo.gif)
+![demo](https://github.com/faman272/TITERA/assets/116134925/4cc570e9-1014-42b7-8ac9-72882f4a7b1f)
 
 
 ## Getting Started
