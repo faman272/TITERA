@@ -46,9 +46,10 @@ This text editor program is a basic implementation and may not have advanced fea
 ## Contributors
 - Fathurrahman (221402098)
 - William Benadectus (221402136)
-- Alexander Brema Pindonta Sitepu(221402085)
-- Gerald Salomo Pasaribu(221402139)
-- Muhammad Dzikrie Zaini(221402116)
+- Alexander Brema Pindonta Sitepu (221402085)
+- Gerald Salomo Pasaribu (221402139)
+- Muhammad Dzikrie Zaini (221402116)
+
 If you would like to contribute to the text editor program, you can fork the repository, make your changes, and submit a pull request. Your contributions are welcome!
 ## License
 This text editor program is open-source and released under the TITERA group’s
