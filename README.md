@@ -9,13 +9,13 @@ This repository contains text editor programs implemented in C++. This program a
 
 
 ## Features
-- Change console text color 🔵🔴🟢🟡
-- Create a new text file 
-- Edit an existing text file 
-- Read the contents of a text file 
-- Delete a text file 
+- Change console text color 🟢🟣🔵🟡 
+- Create a new text file  📝
+- Edit an existing text file  📋
+- Read the contents of a text file  📖
+- Delete a text file ❌
 
-## Getting Started
+## Getting Started 🔧
 To use the text editor program, follow these steps:
 1. Clone the repository: **`git clone https://github.com/faman272/TITERA.git`**
 2. Change to the project directory: **`cd TITERA`**
@@ -52,4 +52,4 @@ This text editor program is a basic implementation and may not have advanced fea
 
 If you would like to contribute to the text editor program, you can fork the repository, make your changes, and submit a pull request. Your contributions are welcome!
 ## License
-This text editor program is open-source and released under the TITERA group’s
+This text editor program is open-source and released under the [MIT LICENSE](LICENSE).
