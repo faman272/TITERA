@@ -15,7 +15,7 @@
 void createFile(const string &filename)
 {
     hideCursor();
-    // cek apakah file sudah ada
+    // cek if the file already exist
     ifstream existingFile(filename);
     if (existingFile.is_open())
     {
