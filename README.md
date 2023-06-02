@@ -21,7 +21,9 @@ To use the text editor program, follow these steps:
 2. Change to the project directory: **`cd TITERA`**
 3. Compile the source code: **`g++ titera.cpp -o titera`**
 4. Run the program: **`./titera`**
-## Usage
+
+
+## Usage 💡
 After running the program, you will be presented with the text editor menu. Use the following keys to navigate and interact with the program:
 
 - **`c`** - Create a new text file
@@ -29,21 +31,21 @@ After running the program, you will be presented with the text editor menu. Use 
 - **`r`** - Read the contents of a text file
 - **`d`** - Delete a text file
 - **`q`** - Exit the program
-### Create New Text File
+
+### Create New Text File 📝
 When prompted, enter the name of the file you want to create. If a file with the same name already exists, you will be notified, and the program will return to the menu. Otherwise, a new file will be created, and you can start editing its contents. Press ~ to save the file,
 and Esc to exit
-## Edit an existing text file
+## Edit an existing text file 📋
 When prompted, enter the name of the file you want to edit. If the file exists, its contents will be loaded into the editor, and you can make changes to the text. Press the ~ key to save the changes to the file. Press the Esc key to cancel the changes and return to the menu.
-## Read the contents of a text file
-
+## Read the contents of a text file 📖
 When prompted, enter the name of the file you want to read. If the file exists, its contents will be displayed on the console.
-## Delete a text file
+## Delete a text file ❌
 When prompted, enter the name of the file you want to delete. If the file exists, it will be deleted from the system.
 ## Quit The Program
 Press the q key to quit the program and exit the text editor.
-### Note:
+### 📓 Note : 
 This text editor program is a basic implementation and may not have advanced features like undo/redo, text formatting. It is meant to serve as a starting point for building more complex text editor applications.
-## Contributors
+## 👯 Contributors
 - Fathurrahman (221402098)
 - William Benadectus (221402136)
 - Alexander Brema Pindonta Sitepu (221402085)
