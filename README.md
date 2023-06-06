@@ -14,6 +14,7 @@ This repository contains text editor programs implemented in C++. This program a
 - Edit an existing text file  📋
 - Read the contents of a text file  📖
 - Delete a text file ❌
+- Execute Program File (C++/C) 🏁
 
 ## Getting Started 🔧
 To use the text editor program, follow these steps:
@@ -41,6 +42,8 @@ When prompted, enter the name of the file you want to edit. If the file exists, 
 When prompted, enter the name of the file you want to read. If the file exists, its contents will be displayed on the console.
 ## Delete a text file ❌
 When prompted, enter the name of the file you want to delete. If the file exists, it will be deleted from the system.
+## Execute Program File 
+When creating or editing a file, you can execute a file with the extension .cpp or .c by pressing the "backtick" key on your keyboard.
 ## Quit The Program
 Press the q key to quit the program and exit the text editor.
 ### 📓 Note : 
