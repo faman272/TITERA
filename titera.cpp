@@ -28,9 +28,6 @@ Group members :
 #include "delete_file.hpp" //function to delete file    [->Alexander]
 
 #include <iostream>
-#include <fstream>
-#include <conio.h> 
-#include <windows.h>
 
 using namespace std;
 
