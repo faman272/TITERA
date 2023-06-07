@@ -1,5 +1,5 @@
-#ifndef CURSOR_COLOR_HPP
-#define CURSOR_COLOR_HPP
+#ifndef CURSOR_AND_COLOR_HPP
+#define CURSOR_AND_COLOR_HPP
 
 #include <windows.h>
 
