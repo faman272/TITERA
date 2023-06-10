@@ -1,7 +1,7 @@
 #ifndef CREATE_FILE_HPP
 #define CREATE_FILE_HPP
 
-#include "cursor_color.hpp"
+#include "cursor_and_color.hpp"
 #include <iostream>
 #include <fstream>
 #include <conio.h>
