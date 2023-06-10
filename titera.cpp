@@ -50,7 +50,7 @@ void TextEditor::textEditorMenu() //function menu  [->Dzikrie]
         cout << "\033[33m";
         cout << "\t\t\t\t\t\t\t  TITERA - Titik Terang Editor" << endl;
         cout << "\033[36m";
-        cout << "\t\t\t\t\t\t\t\t    Versi 1.0.\n"
+        cout << "\t\t\t\t\t\t\t\t    Versi 1.0.1\n"
              << endl;
         cout << "\033[37m";
         cout << "Enter \033[35mc\033[37m to Create, \033[35mr\033[37m to Read, \033[35me\033[37m to Update, \033[35md\033[37m to Delete, and \033[35mq\033[37m to Exit: ";
